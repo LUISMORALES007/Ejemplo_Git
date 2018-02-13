@@ -12,6 +12,17 @@ public class Main{
 
                    System.out.println("La suma de la variable"+(var1+var2));
                    
+                  
+              int var3= 100;
+                
+                    while(var3<0){
+                           
+                               System.out.println(var3);
+                               
+                              var3--;
+
+                    }
+
     
       
     }
