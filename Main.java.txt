@@ -22,6 +22,16 @@ public class Main{
                               var3--;
 
                     }
+           
+               int var4= 100;
+                
+                    while(var4<100){
+                           
+                               System.out.println(var4);
+                               
+                              var4++;
+
+                    }
 
     
       
